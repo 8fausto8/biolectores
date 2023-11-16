@@ -1,0 +1,23 @@
+<form action="../../Desktop/pagina/amor.html" method="post" target="_blank">
+
+  <p>
+
+    VADEMECUM ACTUALIZADO: <name="abrir">
+
+    <input type="submit" value="Buscar">
+
+  </p>
+
+</form>
+
+<form action="../../Desktop/pagina/reina.html" method="post" target="_blank">
+
+  <p>
+
+    CHAT GRUPAL: <name="abrir">
+
+    <input type="submit" value="Buscar">
+
+  </p>
+
+</form>

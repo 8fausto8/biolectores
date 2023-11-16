@@ -1,0 +1,25 @@
+<html>
+	<head>
+		<center> BIENVENIDOS LECTORES</center>
+        </p>
+	</head>
+	<body>
+<center><img src="C:\Users\Erick\Desktop\pagina\logo.html" width="500" height="500"/></center>
+	INGRESE USUARIO Y CLAVE </left>
+	</body>
+</html>
+
+<script>
+function usrpas(){
+if (document.form1.txt.value=="gonzalo" && document.form1.num.value=="1234" || document.form1.txt.value=="yordi" && document.form1.num.value=="987"){window.location="pagina 2.html"}
+ 
+else {alert("Error en USUARIO o CLAVE. Intenta de nuevo.")}
+}
+document.oncontextmenu=new Function("return false");
+</script>
+ 
+<form name="form1">
+<input type="text" name="txt"> USUARIO <br>
+<input type="password" name="num"> CLAVE <br>
+<input type="button" value="INGRESAR" onclick="usrpas()">
+</form>
